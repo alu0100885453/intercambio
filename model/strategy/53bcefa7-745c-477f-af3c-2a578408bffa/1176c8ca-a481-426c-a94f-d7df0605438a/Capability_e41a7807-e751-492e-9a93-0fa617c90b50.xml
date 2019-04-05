@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Asignación de alojamiento"
+    id="e41a7807-e751-492e-9a93-0fa617c90b50">
+  <properties
+      key="Código"/>
+  <properties
+      key="Nombre"
+      value="Asignación de alojamiento"/>
+  <properties
+      key="Descripción"/>
+  <properties
+      key="Tipo"
+      value="Capacidad"/>
+</archimate:Capability>

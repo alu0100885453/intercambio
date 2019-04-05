@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gestión de la producción de la actividad comercial"
+    id="da6b09a2-0c37-44bd-a928-a0d355172991">
+  <properties
+      key="Código"/>
+  <properties
+      key="Nombre"
+      value="Gestión de la producción de la actividad comercial"/>
+  <properties
+      key="Descripción"/>
+  <properties
+      key="Tipo"
+      value="Capacidad"/>
+</archimate:Capability>

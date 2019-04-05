@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gestión de tesoreria"
+    id="1b3aa060-8fab-453f-9185-f11c8cf1280e">
+  <properties
+      key="Código"/>
+  <properties
+      key="Nombre"
+      value="Gestión de tesoreria"/>
+  <properties
+      key="Descripción"/>
+  <properties
+      key="Tipo"
+      value="Capacidad"/>
+</archimate:Capability>

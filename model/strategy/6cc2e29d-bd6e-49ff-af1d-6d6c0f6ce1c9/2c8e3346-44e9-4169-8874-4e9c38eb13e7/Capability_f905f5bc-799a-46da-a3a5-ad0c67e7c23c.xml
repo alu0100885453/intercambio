@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Análisis de oportunidades de Investigación"
+    id="f905f5bc-799a-46da-a3a5-ad0c67e7c23c">
+  <properties
+      key="Código"/>
+  <properties
+      key="Nombre"
+      value="Análisis de oportunidades de Investigación"/>
+  <properties
+      key="Descripción"/>
+  <properties
+      key="Tipo"
+      value="Capacidad"/>
+</archimate:Capability>

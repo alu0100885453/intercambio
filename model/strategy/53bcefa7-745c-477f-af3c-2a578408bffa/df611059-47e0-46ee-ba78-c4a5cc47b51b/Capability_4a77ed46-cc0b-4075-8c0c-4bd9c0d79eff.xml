@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gestión y utilización de espacios"
+    id="4a77ed46-cc0b-4075-8c0c-4bd9c0d79eff">
+  <properties
+      key="Código"/>
+  <properties
+      key="Nombre"
+      value="Gestión y utilización de espacios"/>
+  <properties
+      key="Descripción"/>
+  <properties
+      key="Tipo"
+      value="Capacidad"/>
+</archimate:Capability>

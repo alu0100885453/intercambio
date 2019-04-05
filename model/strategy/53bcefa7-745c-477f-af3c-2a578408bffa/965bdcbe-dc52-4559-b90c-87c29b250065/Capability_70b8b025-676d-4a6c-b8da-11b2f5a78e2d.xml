@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gestión de impresión"
+    id="70b8b025-676d-4a6c-b8da-11b2f5a78e2d">
+  <properties
+      key="Código"/>
+  <properties
+      key="Nombre"
+      value="Gestión de impresión"/>
+  <properties
+      key="Descripción"/>
+  <properties
+      key="Tipo"
+      value="Capacidad"/>
+</archimate:Capability>

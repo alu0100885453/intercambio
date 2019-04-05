@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gestión del rendimiento de los empleados"
+    id="b940baed-0092-412e-9027-ea31de0a80a6">
+  <properties
+      key="Código"/>
+  <properties
+      key="Nombre"
+      value="Gestión del rendimiento de los empleados"/>
+  <properties
+      key="Descripción"/>
+  <properties
+      key="Tipo"
+      value="Capacidad"/>
+</archimate:Capability>

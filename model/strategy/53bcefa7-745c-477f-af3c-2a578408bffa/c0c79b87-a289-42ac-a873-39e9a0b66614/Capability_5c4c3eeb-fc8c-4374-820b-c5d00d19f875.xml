@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Formación y desarrollo"
+    id="5c4c3eeb-fc8c-4374-820b-c5d00d19f875">
+  <properties
+      key="Código"/>
+  <properties
+      key="Nombre"
+      value="Formación y desarrollo"/>
+  <properties
+      key="Descripción"/>
+  <properties
+      key="Tipo"
+      value="Capacidad"/>
+</archimate:Capability>

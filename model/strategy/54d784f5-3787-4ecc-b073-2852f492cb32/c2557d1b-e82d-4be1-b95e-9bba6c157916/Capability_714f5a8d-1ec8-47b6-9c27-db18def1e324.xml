@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gestión de resultados de los estudiantes"
+    id="714f5a8d-1ec8-47b6-9c27-db18def1e324">
+  <properties
+      key="Código"/>
+  <properties
+      key="Nombre"
+      value="Gestión de resultados de los estudiantes"/>
+  <properties
+      key="Descripción"/>
+  <properties
+      key="Tipo"
+      value="Capacidad"/>
+</archimate:Capability>

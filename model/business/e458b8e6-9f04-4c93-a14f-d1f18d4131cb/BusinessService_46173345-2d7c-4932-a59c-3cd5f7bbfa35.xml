@@ -1,0 +1,17 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CRUE_08_01&#x9;Directorio"
+    id="46173345-2d7c-4932-a59c-3cd5f7bbfa35">
+  <properties
+      key="Código CRUE"
+      value="CRUE_08_01"/>
+  <properties
+      key="Nombre del Servicio"
+      value="Directorio."/>
+  <properties
+      key="Descripción Servicio"
+      value="Diseño, administración y gestión de la plataforma que almacena, organiza y publica información personal de los usuarios de la Universidad. Incluye el archivo fotográfico recogido con las diferentes aplicaciones."/>
+  <properties
+      key="Tipo"
+      value="Servicio"/>
+</archimate:BusinessService>

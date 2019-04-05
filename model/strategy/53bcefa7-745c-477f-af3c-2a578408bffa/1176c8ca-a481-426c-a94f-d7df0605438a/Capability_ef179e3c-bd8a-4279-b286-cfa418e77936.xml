@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gestión de instalaciones de alojamiento"
+    id="ef179e3c-bd8a-4279-b286-cfa418e77936">
+  <properties
+      key="Código"/>
+  <properties
+      key="Nombre"
+      value="Gestión de instalaciones de alojamiento"/>
+  <properties
+      key="Descripción"/>
+  <properties
+      key="Tipo"
+      value="Capacidad"/>
+</archimate:Capability>

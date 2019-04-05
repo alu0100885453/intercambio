@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Evaluación de oportunidades de mercado"
+    id="2040ce1f-cd8b-4616-800b-0e7a0d93852e">
+  <properties
+      key="Código"/>
+  <properties
+      key="Nombre"
+      value="Evaluación de oportunidades de mercado"/>
+  <properties
+      key="Descripción"/>
+  <properties
+      key="Tipo"
+      value="Capacidad"/>
+</archimate:Capability>

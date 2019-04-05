@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Evaluación de admisión"
+    id="b73c8435-38b5-41c0-902a-dd21b0abca85">
+  <properties
+      key="Código"/>
+  <properties
+      key="Nombre"
+      value="Evaluación de admisión"/>
+  <properties
+      key="Descripción"/>
+  <properties
+      key="Tipo"
+      value="Capacidad"/>
+</archimate:Capability>

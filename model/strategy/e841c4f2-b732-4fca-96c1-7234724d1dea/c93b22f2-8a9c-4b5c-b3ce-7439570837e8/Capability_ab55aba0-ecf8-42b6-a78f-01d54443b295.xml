@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gestión de calidad"
+    id="ab55aba0-ecf8-42b6-a78f-01d54443b295">
+  <properties
+      key="Código"/>
+  <properties
+      key="Nombre"
+      value="Gestión de calidad"/>
+  <properties
+      key="Descripción"/>
+  <properties
+      key="Tipo"
+      value="Capacidad"/>
+</archimate:Capability>

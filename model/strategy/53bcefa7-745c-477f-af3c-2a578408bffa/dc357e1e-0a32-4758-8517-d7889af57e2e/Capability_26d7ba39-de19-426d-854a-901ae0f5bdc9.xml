@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Asesoramiento financiero"
+    id="26d7ba39-de19-426d-854a-901ae0f5bdc9">
+  <properties
+      key="Código"/>
+  <properties
+      key="Nombre"
+      value="Asesoramiento financiero"/>
+  <properties
+      key="Descripción"/>
+  <properties
+      key="Tipo"
+      value="Capacidad"/>
+</archimate:Capability>

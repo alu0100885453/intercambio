@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Desarrollo del programa de investigación"
+    id="f856260e-7f59-4ec5-979e-0e9781f8b71e">
+  <properties
+      key="Código"/>
+  <properties
+      key="Nombre"
+      value="Desarrollo del programa de investigación"/>
+  <properties
+      key="Descripción"/>
+  <properties
+      key="Tipo"
+      value="Capacidad"/>
+</archimate:Capability>

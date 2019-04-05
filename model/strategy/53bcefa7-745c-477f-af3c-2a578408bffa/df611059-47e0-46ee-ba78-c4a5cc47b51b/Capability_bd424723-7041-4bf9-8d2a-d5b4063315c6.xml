@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gestión medioambiental"
+    id="bd424723-7041-4bf9-8d2a-d5b4063315c6">
+  <properties
+      key="Código"/>
+  <properties
+      key="Nombre"
+      value="Gestión medioambiental"/>
+  <properties
+      key="Descripción"/>
+  <properties
+      key="Tipo"
+      value="Capacidad"/>
+</archimate:Capability>

@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gestión de relaciones con los medios"
+    id="b626c3e3-c2d8-49cb-9967-f2a3e1e120cf">
+  <properties
+      key="Código"/>
+  <properties
+      key="Nombre"
+      value="Gestión de relaciones con los medios"/>
+  <properties
+      key="Descripción"/>
+  <properties
+      key="Tipo"
+      value="Capacidad"/>
+</archimate:Capability>

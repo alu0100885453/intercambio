@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gestión alimentaria y minorista"
+    id="ed2ed50f-a088-4752-a1e1-603908ac3c46">
+  <properties
+      key="Código"/>
+  <properties
+      key="Nombre"
+      value="Gestión alimentaria y minorista"/>
+  <properties
+      key="Descripción"/>
+  <properties
+      key="Tipo"
+      value="Capacidad"/>
+</archimate:Capability>

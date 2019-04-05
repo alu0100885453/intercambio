@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mantenimiento de parques"
+    id="66f6bb78-e390-423d-aad7-01ee4a287a3c">
+  <properties
+      key="Código"/>
+  <properties
+      key="Nombre"
+      value="Mantenimiento de parques"/>
+  <properties
+      key="Descripción"/>
+  <properties
+      key="Tipo"
+      value="Capacidad"/>
+</archimate:Capability>

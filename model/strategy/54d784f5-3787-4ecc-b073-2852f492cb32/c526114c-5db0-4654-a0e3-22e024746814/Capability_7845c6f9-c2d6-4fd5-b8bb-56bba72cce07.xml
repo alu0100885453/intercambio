@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Propsectiva de captación de estudiantes"
+    id="7845c6f9-c2d6-4fd5-b8bb-56bba72cce07">
+  <properties
+      key="Código"/>
+  <properties
+      key="Nombre"
+      value="Propsectiva de captación de estudiantes"/>
+  <properties
+      key="Descripción"/>
+  <properties
+      key="Tipo"
+      value="Capacidad"/>
+</archimate:Capability>

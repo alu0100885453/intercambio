@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Auditoría interna e informes"
+    id="9092dfd0-ab09-4095-b3d5-31f08df34945">
+  <properties
+      key="Código"/>
+  <properties
+      key="Nombre"
+      value="Auditoría interna e informes"/>
+  <properties
+      key="Descripción"/>
+  <properties
+      key="Tipo"
+      value="Capacidad"/>
+</archimate:Capability>

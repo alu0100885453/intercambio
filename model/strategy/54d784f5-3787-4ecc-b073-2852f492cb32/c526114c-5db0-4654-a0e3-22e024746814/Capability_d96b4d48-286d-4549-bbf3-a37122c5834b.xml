@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Captación de estudiantes internacionales"
+    id="d96b4d48-286d-4549-bbf3-a37122c5834b">
+  <properties
+      key="Código"/>
+  <properties
+      key="Nombre"
+      value="Captación de estudiantes internacionales"/>
+  <properties
+      key="Descripción"/>
+  <properties
+      key="Tipo"
+      value="Capacidad"/>
+</archimate:Capability>

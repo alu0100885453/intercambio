@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gestión de matrícula"
+    id="8ee48bc5-dcf4-4c03-a813-d21f38b9efc4">
+  <properties
+      key="Código"/>
+  <properties
+      key="Nombre"
+      value="Gestión de matrícula"/>
+  <properties
+      key="Descripción"/>
+  <properties
+      key="Tipo"
+      value="Capacidad"/>
+</archimate:Capability>

@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Diseño Organizativo"
+    id="c597cd9b-dfcc-476b-81e9-300964253f75">
+  <properties
+      key="Código"/>
+  <properties
+      key="Nombre"
+      value="Diseño Organizativo"/>
+  <properties
+      key="Descripción"/>
+  <properties
+      key="Tipo"
+      value="Capacidad"/>
+</archimate:Capability>

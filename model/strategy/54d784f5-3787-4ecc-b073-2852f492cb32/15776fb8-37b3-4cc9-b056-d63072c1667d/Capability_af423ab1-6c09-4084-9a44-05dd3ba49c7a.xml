@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mobilidad de estudiantes"
+    id="af423ab1-6c09-4084-9a44-05dd3ba49c7a">
+  <properties
+      key="Código"/>
+  <properties
+      key="Nombre"
+      value="Mobilidad de estudiantes"/>
+  <properties
+      key="Descripción"/>
+  <properties
+      key="Tipo"
+      value="Capacidad"/>
+</archimate:Capability>

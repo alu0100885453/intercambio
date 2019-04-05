@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gestión de acceso a colecciones bibliotecarias"
+    id="13bd4b95-f344-4cee-b8c4-e7f3cb5a9bce">
+  <properties
+      key="Código"/>
+  <properties
+      key="Nombre"
+      value="Gestión de acceso a colecciones bibliotecarias"/>
+  <properties
+      key="Descripción"/>
+  <properties
+      key="Tipo"
+      value="Capacidad"/>
+</archimate:Capability>

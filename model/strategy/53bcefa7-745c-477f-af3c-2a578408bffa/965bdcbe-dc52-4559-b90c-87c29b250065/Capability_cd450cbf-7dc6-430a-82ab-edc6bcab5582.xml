@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Soporte religioso"
+    id="cd450cbf-7dc6-430a-82ab-edc6bcab5582">
+  <properties
+      key="Código"/>
+  <properties
+      key="Nombre"
+      value="Soporte religioso"/>
+  <properties
+      key="Descripción"/>
+  <properties
+      key="Tipo"
+      value="Capacidad"/>
+</archimate:Capability>

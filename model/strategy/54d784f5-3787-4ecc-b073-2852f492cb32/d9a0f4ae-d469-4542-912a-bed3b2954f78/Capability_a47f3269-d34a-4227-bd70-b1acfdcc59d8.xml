@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gestión y revisión de horarios de recursos docentes"
+    id="a47f3269-d34a-4227-bd70-b1acfdcc59d8">
+  <properties
+      key="Código"/>
+  <properties
+      key="Nombre"
+      value="Gestión y revisión de horarios de recursos docentes"/>
+  <properties
+      key="Descripción"/>
+  <properties
+      key="Tipo"
+      value="Capacidad"/>
+</archimate:Capability>

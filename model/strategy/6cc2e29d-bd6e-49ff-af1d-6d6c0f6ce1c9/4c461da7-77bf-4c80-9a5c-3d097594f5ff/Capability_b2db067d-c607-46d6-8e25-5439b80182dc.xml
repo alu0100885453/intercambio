@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Informes de resultados de investigación"
+    id="b2db067d-c607-46d6-8e25-5439b80182dc">
+  <properties
+      key="Código"/>
+  <properties
+      key="Nombre"
+      value="Informes de resultados de investigación"/>
+  <properties
+      key="Descripción"/>
+  <properties
+      key="Tipo"
+      value="Capacidad"/>
+</archimate:Capability>

@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Asesoramiento de alojamiento"
+    id="93cf4b2a-4217-44e3-b731-93c7d2ff19e7">
+  <properties
+      key="Código"/>
+  <properties
+      key="Nombre"
+      value="Asesoramiento de alojamiento"/>
+  <properties
+      key="Descripción"/>
+  <properties
+      key="Tipo"
+      value="Capacidad"/>
+</archimate:Capability>

@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gestión de la campaña"
+    id="d0400cfa-4f7f-4fff-a8f6-42f8abeca7e7">
+  <properties
+      key="Código"/>
+  <properties
+      key="Nombre"
+      value="Gestión de la campaña"/>
+  <properties
+      key="Descripción"/>
+  <properties
+      key="Tipo"
+      value="Capacidad"/>
+</archimate:Capability>

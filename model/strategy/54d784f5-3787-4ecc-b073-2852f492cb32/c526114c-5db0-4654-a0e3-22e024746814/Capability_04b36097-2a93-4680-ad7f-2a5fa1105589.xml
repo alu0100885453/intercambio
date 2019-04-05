@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Captación de estudiantes del territorio"
+    id="04b36097-2a93-4680-ad7f-2a5fa1105589">
+  <properties
+      key="Código"/>
+  <properties
+      key="Nombre"
+      value="Captación de estudiantes del territorio"/>
+  <properties
+      key="Descripción"/>
+  <properties
+      key="Tipo"
+      value="Capacidad"/>
+</archimate:Capability>

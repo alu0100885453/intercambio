@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gestión de aprendizaje personal"
+    id="06077942-f351-4488-96ab-23903160ebd8">
+  <properties
+      key="Código"/>
+  <properties
+      key="Nombre"
+      value="Gestión de aprendizaje personal"/>
+  <properties
+      key="Descripción"/>
+  <properties
+      key="Tipo"
+      value="Capacidad"/>
+</archimate:Capability>

@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Compromiso comercial de partners"
+    id="4bc7f797-4131-47bb-961c-dc39964e5d22">
+  <properties
+      key="Código"/>
+  <properties
+      key="Nombre"
+      value="Compromiso comercial de partners"/>
+  <properties
+      key="Descripción"/>
+  <properties
+      key="Tipo"
+      value="Capacidad"/>
+</archimate:Capability>

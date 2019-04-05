@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Motivación y retención de estudiantes"
+    id="a63042fc-5c08-4245-8bd2-40bccb1fdb93">
+  <properties
+      key="Código"/>
+  <properties
+      key="Nombre"
+      value="Motivación y retención de estudiantes"/>
+  <properties
+      key="Descripción"/>
+  <properties
+      key="Tipo"
+      value="Capacidad"/>
+</archimate:Capability>

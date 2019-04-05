@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gestión de infraestructuras de Investigación"
+    id="58e706c3-0247-4e65-a395-69cdaec6035c">
+  <properties
+      key="Código"/>
+  <properties
+      key="Nombre"
+      value="Gestión de infraestructuras de Investigación"/>
+  <properties
+      key="Descripción"/>
+  <properties
+      key="Tipo"
+      value="Capacidad"/>
+</archimate:Capability>

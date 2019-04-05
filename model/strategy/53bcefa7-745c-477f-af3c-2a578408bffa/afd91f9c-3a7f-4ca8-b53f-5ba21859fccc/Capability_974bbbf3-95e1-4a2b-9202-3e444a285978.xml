@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gestión del ciclo de vida de las aplicaciones"
+    id="974bbbf3-95e1-4a2b-9202-3e444a285978">
+  <properties
+      key="Código"/>
+  <properties
+      key="Nombre"
+      value="Gestión del ciclo de vida de las aplicaciones"/>
+  <properties
+      key="Descripción"/>
+  <properties
+      key="Tipo"
+      value="Capacidad"/>
+</archimate:Capability>

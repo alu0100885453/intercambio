@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gestión de márqueting"
+    id="9d881cfc-c548-436e-8287-d1db734ac1ac">
+  <properties
+      key="Código"/>
+  <properties
+      key="Nombre"
+      value="Gestión de márqueting"/>
+  <properties
+      key="Descripción"/>
+  <properties
+      key="Tipo"
+      value="Capacidad"/>
+</archimate:Capability>

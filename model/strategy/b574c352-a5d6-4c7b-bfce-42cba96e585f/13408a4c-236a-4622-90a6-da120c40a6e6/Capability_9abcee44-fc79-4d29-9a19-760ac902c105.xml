@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Planificación de contingencias comerciales"
+    id="9abcee44-fc79-4d29-9a19-760ac902c105">
+  <properties
+      key="Código"/>
+  <properties
+      key="Nombre"
+      value="Planificación de contingencias comerciales"/>
+  <properties
+      key="Descripción"/>
+  <properties
+      key="Tipo"
+      value="Capacidad"/>
+</archimate:Capability>

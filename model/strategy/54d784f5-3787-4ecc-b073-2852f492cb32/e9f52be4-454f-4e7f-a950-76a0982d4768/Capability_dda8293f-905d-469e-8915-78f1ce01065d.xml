@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gestión de benefactores"
+    id="dda8293f-905d-469e-8915-78f1ce01065d">
+  <properties
+      key="Código"/>
+  <properties
+      key="Nombre"
+      value="Gestión de benefactores"/>
+  <properties
+      key="Descripción"/>
+  <properties
+      key="Tipo"
+      value="Capacidad"/>
+</archimate:Capability>

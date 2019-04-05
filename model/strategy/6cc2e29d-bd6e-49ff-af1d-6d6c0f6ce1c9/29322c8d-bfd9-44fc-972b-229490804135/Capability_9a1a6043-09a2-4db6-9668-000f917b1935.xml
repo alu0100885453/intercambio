@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gestión del rendimiento de los programas de investigación"
+    id="9a1a6043-09a2-4db6-9668-000f917b1935">
+  <properties
+      key="Código"/>
+  <properties
+      key="Nombre"
+      value="Gestión del rendimiento de los programas de investigación"/>
+  <properties
+      key="Descripción"/>
+  <properties
+      key="Tipo"
+      value="Capacidad"/>
+</archimate:Capability>

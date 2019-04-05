@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gestión de informes financieros"
+    id="ebdf6994-b5b2-494b-b300-bb2689157d08">
+  <properties
+      key="Código"/>
+  <properties
+      key="Nombre"
+      value="Gestión de informes financieros"/>
+  <properties
+      key="Descripción"/>
+  <properties
+      key="Tipo"
+      value="Capacidad"/>
+</archimate:Capability>

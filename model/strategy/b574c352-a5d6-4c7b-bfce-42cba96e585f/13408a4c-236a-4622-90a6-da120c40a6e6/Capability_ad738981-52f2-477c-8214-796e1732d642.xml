@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Informes de actividades comerciales"
+    id="ad738981-52f2-477c-8214-796e1732d642">
+  <properties
+      key="Código"/>
+  <properties
+      key="Nombre"
+      value="Informes de actividades comerciales"/>
+  <properties
+      key="Descripción"/>
+  <properties
+      key="Tipo"
+      value="Capacidad"/>
+</archimate:Capability>

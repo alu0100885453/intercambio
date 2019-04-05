@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gestión de prácticas de estudiantes"
+    id="aab44b88-6ef6-48cb-96ad-c8c82d65bda0">
+  <properties
+      key="Código"/>
+  <properties
+      key="Nombre"
+      value="Gestión de prácticas de estudiantes"/>
+  <properties
+      key="Descripción"/>
+  <properties
+      key="Tipo"
+      value="Capacidad"/>
+</archimate:Capability>

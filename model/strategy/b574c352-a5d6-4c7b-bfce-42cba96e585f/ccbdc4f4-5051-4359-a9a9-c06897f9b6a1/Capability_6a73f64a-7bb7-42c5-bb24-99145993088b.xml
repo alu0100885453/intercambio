@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gestión de abandono de la actividad comercial"
+    id="6a73f64a-7bb7-42c5-bb24-99145993088b">
+  <properties
+      key="Código"/>
+  <properties
+      key="Nombre"
+      value="Gestión de abandono de la actividad comercial"/>
+  <properties
+      key="Descripción"/>
+  <properties
+      key="Tipo"
+      value="Capacidad"/>
+</archimate:Capability>

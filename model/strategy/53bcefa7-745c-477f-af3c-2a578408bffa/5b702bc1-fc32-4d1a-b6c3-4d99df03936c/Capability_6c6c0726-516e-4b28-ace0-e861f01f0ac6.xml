@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gestión de contenidos empresariales"
+    id="6c6c0726-516e-4b28-ace0-e861f01f0ac6">
+  <properties
+      key="Código"/>
+  <properties
+      key="Nombre"
+      value="Gestión de contenidos empresariales"/>
+  <properties
+      key="Descripción"/>
+  <properties
+      key="Tipo"
+      value="Capacidad"/>
+</archimate:Capability>

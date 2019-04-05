@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gestión aparcamientos de campus"
+    id="38860df9-c071-4ea6-885c-e8674feba1ae">
+  <properties
+      key="Código"/>
+  <properties
+      key="Nombre"
+      value="Gestión aparcamientos de campus"/>
+  <properties
+      key="Descripción"/>
+  <properties
+      key="Tipo"
+      value="Capacidad"/>
+</archimate:Capability>

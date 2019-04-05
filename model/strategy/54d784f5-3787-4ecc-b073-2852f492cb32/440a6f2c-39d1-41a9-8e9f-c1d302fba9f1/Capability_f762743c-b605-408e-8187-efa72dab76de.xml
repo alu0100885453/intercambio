@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Incripción a un programa"
+    id="f762743c-b605-408e-8187-efa72dab76de">
+  <properties
+      key="Código"/>
+  <properties
+      key="Nombre"
+      value="Incripción a un programa"/>
+  <properties
+      key="Descripción"/>
+  <properties
+      key="Tipo"
+      value="Capacidad"/>
+</archimate:Capability>

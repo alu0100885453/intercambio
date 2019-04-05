@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gestión de programas y proyectos"
+    id="fa16420b-cb98-4d0e-bc28-5e727fd75364">
+  <properties
+      key="Código"/>
+  <properties
+      key="Nombre"
+      value="Gestión de programas y proyectos"/>
+  <properties
+      key="Descripción"/>
+  <properties
+      key="Tipo"
+      value="Capacidad"/>
+</archimate:Capability>

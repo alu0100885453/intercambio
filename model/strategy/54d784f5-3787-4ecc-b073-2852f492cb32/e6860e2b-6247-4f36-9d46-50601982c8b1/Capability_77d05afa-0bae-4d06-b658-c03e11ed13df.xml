@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gestión de oferta y gestión de cuotas"
+    id="77d05afa-0bae-4d06-b658-c03e11ed13df">
+  <properties
+      key="Código"/>
+  <properties
+      key="Nombre"
+      value="Gestión de oferta y gestión de cuotas"/>
+  <properties
+      key="Descripción"/>
+  <properties
+      key="Tipo"
+      value="Capacidad"/>
+</archimate:Capability>

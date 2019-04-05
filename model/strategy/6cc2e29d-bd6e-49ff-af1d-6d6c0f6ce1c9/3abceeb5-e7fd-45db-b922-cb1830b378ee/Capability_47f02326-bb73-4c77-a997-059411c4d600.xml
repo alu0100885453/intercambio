@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Formación y desarrollo de investigadores"
+    id="47f02326-bb73-4c77-a997-059411c4d600">
+  <properties
+      key="Código"/>
+  <properties
+      key="Nombre"
+      value="Formación y desarrollo de investigadores"/>
+  <properties
+      key="Descripción"/>
+  <properties
+      key="Tipo"
+      value="Capacidad"/>
+</archimate:Capability>

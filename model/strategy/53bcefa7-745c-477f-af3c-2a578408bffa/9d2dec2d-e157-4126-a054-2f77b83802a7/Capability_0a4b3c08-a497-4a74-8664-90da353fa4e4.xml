@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Investigación de mercado"
+    id="0a4b3c08-a497-4a74-8664-90da353fa4e4">
+  <properties
+      key="Código"/>
+  <properties
+      key="Nombre"
+      value="Investigación de mercado"/>
+  <properties
+      key="Descripción"/>
+  <properties
+      key="Tipo"
+      value="Capacidad"/>
+</archimate:Capability>

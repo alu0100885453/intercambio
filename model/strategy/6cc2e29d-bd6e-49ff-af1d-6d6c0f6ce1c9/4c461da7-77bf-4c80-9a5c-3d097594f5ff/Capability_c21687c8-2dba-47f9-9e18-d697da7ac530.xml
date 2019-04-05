@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gestión de publicaciones de investigación"
+    id="c21687c8-2dba-47f9-9e18-d697da7ac530">
+  <properties
+      key="Código"/>
+  <properties
+      key="Nombre"
+      value="Gestión de publicaciones de investigación"/>
+  <properties
+      key="Descripción"/>
+  <properties
+      key="Tipo"
+      value="Capacidad"/>
+</archimate:Capability>
